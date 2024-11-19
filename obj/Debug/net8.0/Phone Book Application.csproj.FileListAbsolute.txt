@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\New folder\Phone Book Application\obj\Debug\net8.0\Phone Book Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\New folder\Phone Book Application\obj\Debug\net8.0\Phone Book Application.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\New folder\Phone Book Application\obj\Debug\net8.0\Phone Book Application.AssemblyInfo.cs
+C:\Users\USER\Desktop\New folder\Phone Book Application\obj\Debug\net8.0\Phone Book Application.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\New folder\Phone Book Application\obj\Debug\net8.0\Phone Book Application.dll
+C:\Users\USER\Desktop\New folder\Phone Book Application\obj\Debug\net8.0\refint\Phone Book Application.dll
+C:\Users\USER\Desktop\New folder\Phone Book Application\obj\Debug\net8.0\Phone Book Application.pdb
+C:\Users\USER\Desktop\New folder\Phone Book Application\bin\Debug\net8.0\Phone Book Application.exe
+C:\Users\USER\Desktop\New folder\Phone Book Application\bin\Debug\net8.0\Phone Book Application.deps.json
+C:\Users\USER\Desktop\New folder\Phone Book Application\bin\Debug\net8.0\Phone Book Application.runtimeconfig.json
+C:\Users\USER\Desktop\New folder\Phone Book Application\bin\Debug\net8.0\Phone Book Application.dll
+C:\Users\USER\Desktop\New folder\Phone Book Application\bin\Debug\net8.0\Phone Book Application.pdb
+C:\Users\USER\Desktop\New folder\Phone Book Application\obj\Debug\net8.0\Phone Book Application.genruntimeconfig.cache
+C:\Users\USER\Desktop\New folder\Phone Book Application\obj\Debug\net8.0\ref\Phone Book Application.dll
